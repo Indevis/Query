@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.726,=C:\Users\Admin\Documents\Embarcadero\Studio\Projects\ServerMethodsUnit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.534,=C:\Users\Admin\Documents\Embarcadero\Studio\Projects\WebModuleUnit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.158,=C:\Users\Admin\Documents\Embarcadero\Studio\Projects\WebModuleUnit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.469,C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\pas\ProjectQuery\DPMUnit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.133,=C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.590,=C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.285,=C:\Users\Admin\Documents\Embarcadero\Studio\Projects\WebModuleUnit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.992,C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\pas\ProjectQuery\DBM.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.469,C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Unit1.fmx=C:\pas\ProjectQuery\DPMUnit1.fmx</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.866,=C:\Users\Admin\Documents\Embarcadero\Studio\Projects\ServerContainerUnit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.459,=C:\Users\Admin\Documents\Embarcadero\Studio\Projects\FormUnit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.486,=C:\Users\Admin\Documents\Embarcadero\Studio\Projects\FormUnit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.290,=C:\Users\Admin\Documents\Embarcadero\Studio\Projects\FormUnit1.pas</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<PMAC13 iOSSimulator="iPhone5"/>  <NoProfile iOSSimulator="iPhone5"/>
+  </ActiveMobileDevice>
+</BorlandProject>
